@@ -1,0 +1,2260 @@
+fileFormatVersion: 2
+guid: 6263985b92f017347b0827bcabb974bb
+timeCreated: 1491840251
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bedro.L
+    100004: Bedro.R
+    100006: Chelust
+    100008: Chelust_end
+    100010: Golen1.L
+    100012: Golen1.R
+    100014: Golen2.L
+    100016: Golen2.L_end
+    100018: Golen2.R
+    100020: Golen2.R_end
+    100022: Golova
+    100024: Hvost
+    100026: Hvost.001
+    100028: Hvost.002
+    100030: Hvost.002_end
+    100032: Kost
+    100034: Krilo.L
+    100036: Krilo.R
+    100038: Krilo1.L
+    100040: Krilo1.L_end
+    100042: Krilo1.R
+    100044: Krilo1.R_end
+    100046: //RootNode
+    100048: Plane
+    100050: Plane.004
+    100052: Plane.019
+    100054: Plane.044
+    100056: RichagStopa.L
+    100058: RichagStopa.R
+    100060: Sheya
+    100062: Sheya_end
+    100064: Spina
+    100066: Stopa.L
+    100068: Stopa.R
+    100070: Stopa1.L
+    100072: Stopa1.R
+    100074: Stopa2.L
+    100076: Stopa2.L_end
+    100078: Stopa2.R
+    100080: Stopa2.R_end
+    100082: Taz
+    100084: veko.L
+    100086: veko.L_end
+    100088: veko.R
+    100090: veko.R_end
+    100092: vekoN.L
+    100094: vekoN.L_end
+    100096: vekoN.R
+    100098: vekoN.R_end
+    100100: Yazik
+    100102: Yazik.001
+    100104: Yazik.002
+    100106: Yazik.003
+    100108: Yazik.004
+    100110: Yazik.005
+    100112: Yazik.006
+    100114: Yazik.007
+    100116: Yazik.007_end
+    400000: Armature
+    400002: Bedro.L
+    400004: Bedro.R
+    400006: Chelust
+    400008: Chelust_end
+    400010: Golen1.L
+    400012: Golen1.R
+    400014: Golen2.L
+    400016: Golen2.L_end
+    400018: Golen2.R
+    400020: Golen2.R_end
+    400022: Golova
+    400024: Hvost
+    400026: Hvost.001
+    400028: Hvost.002
+    400030: Hvost.002_end
+    400032: Kost
+    400034: Krilo.L
+    400036: Krilo.R
+    400038: Krilo1.L
+    400040: Krilo1.L_end
+    400042: Krilo1.R
+    400044: Krilo1.R_end
+    400046: //RootNode
+    400048: Plane
+    400050: Plane.004
+    400052: Plane.019
+    400054: Plane.044
+    400056: RichagStopa.L
+    400058: RichagStopa.R
+    400060: Sheya
+    400062: Sheya_end
+    400064: Spina
+    400066: Stopa.L
+    400068: Stopa.R
+    400070: Stopa1.L
+    400072: Stopa1.R
+    400074: Stopa2.L
+    400076: Stopa2.L_end
+    400078: Stopa2.R
+    400080: Stopa2.R_end
+    400082: Taz
+    400084: veko.L
+    400086: veko.L_end
+    400088: veko.R
+    400090: veko.R_end
+    400092: vekoN.L
+    400094: vekoN.L_end
+    400096: vekoN.R
+    400098: vekoN.R_end
+    400100: Yazik
+    400102: Yazik.001
+    400104: Yazik.002
+    400106: Yazik.003
+    400108: Yazik.004
+    400110: Yazik.005
+    400112: Yazik.006
+    400114: Yazik.007
+    400116: Yazik.007_end
+    4300000: Plane
+    4300002: Plane.044
+    4300004: Plane.004
+    4300006: Plane.019
+    7400000: Armature|Attack
+    7400002: Armature|Bounce
+    7400004: Armature|cry
+    7400006: Armature|Damage
+    7400008: Armature|DamageMirror
+    7400010: Armature|Death
+    7400012: Armature|Expectation
+    7400014: Armature|Expectation2
+    7400016: Armature|Expectation3
+    7400018: Armature|Expectation4
+    7400020: Armature|Feeding
+    7400022: Armature|Run
+    7400024: Armature|Sleep
+    7400026: Armature|Step
+    9500000: //RootNode
+    13700000: Plane
+    13700002: Plane.004
+    13700004: Plane.019
+    13700006: Plane.044
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Attack
+      takeName: Armature|Attack
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Bounce
+      takeName: Armature|Bounce
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|cry
+      takeName: Armature|cry
+      firstFrame: 0
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Damage
+      takeName: Armature|Damage
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|DamageMirror
+      takeName: Armature|DamageMirror
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Death
+      takeName: Armature|Death
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Expectation
+      takeName: Armature|Expectation
+      firstFrame: 0
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Expectation2
+      takeName: Armature|Expectation2
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Expectation3
+      takeName: Armature|Expectation3
+      firstFrame: 0
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Expectation4
+      takeName: Armature|Expectation4
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Feeding
+      takeName: Armature|Feeding
+      firstFrame: 0
+      lastFrame: 118
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Run
+      takeName: Armature|Run
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Sleep
+      takeName: Armature|Sleep
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Step
+      takeName: Armature|Step
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Kost
+        weight: 1
+      - path: Armature/Kost/Golova
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust
+        weight: 1
+      - path: Armature/Kost/Golova/Chelust/Chelust_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L
+        weight: 1
+      - path: Armature/Kost/Golova/veko.L/veko.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R
+        weight: 1
+      - path: Armature/Kost/Golova/veko.R/veko.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.L/vekoN.L_end
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R
+        weight: 1
+      - path: Armature/Kost/Golova/vekoN.R/vekoN.R_end
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007
+        weight: 1
+      - path: Armature/Kost/Golova/Yazik/Yazik.001/Yazik.002/Yazik.003/Yazik.004/Yazik.005/Yazik.006/Yazik.007/Yazik.007_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L
+        weight: 1
+      - path: Armature/Kost/RichagStopa.L/Stopa.L/Stopa1.L/Stopa2.L/Stopa2.L_end
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R
+        weight: 1
+      - path: Armature/Kost/RichagStopa.R/Stopa.R/Stopa1.R/Stopa2.R/Stopa2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.L/Golen1.L/Golen2.L/Golen2.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R
+        weight: 1
+      - path: Armature/Kost/Taz/Bedro.R/Golen1.R/Golen2.R/Golen2.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: Armature/Kost/Taz/Hvost/Hvost.001/Hvost.002/Hvost.002_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.L/Krilo1.L/Krilo1.L_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Krilo.R/Krilo1.R/Krilo1.R_end
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya
+        weight: 1
+      - path: Armature/Kost/Taz/Spina/Sheya/Sheya_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.019
+        weight: 1
+      - path: Plane.044
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

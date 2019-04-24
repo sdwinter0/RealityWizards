@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 492cc0813c4064ed79f2671a7c2633fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Test_T: {instanceID: 0}
+  - Test_M: {fileID: 8788560747762577416, guid: 54ca815c5bab72a4cb07dc4854dc0ef9,
+      type: 3}
+  - Enemy_Health_Text: {instanceID: 0}
+  - Debug: {instanceID: 0}
+  - Ifrit_T: {fileID: 2800000, guid: 4dd705cf94a8d3f47b75f315f3f6c303, type: 3}
+  - Ghoul_T: {fileID: 2800000, guid: af2fe77e03630d74ea2b0b8bd0e8016b, type: 3}
+  - Angra_Mainyu_T: {instanceID: 0}
+  - Aka_Manah_T: {instanceID: 0}
+  - Roc_T: {instanceID: 0}
+  - Huma_T: {instanceID: 0}
+  - Apaosha_T: {instanceID: 0}
+  - Aeshma_T: {instanceID: 0}
+  - Bushyasta_T: {instanceID: 0}
+  - Manticore_T: {instanceID: 0}
+  - Greater_Ghoul_T: {instanceID: 0}
+  - Takam_T: {instanceID: 0}
+  - Mischevious_Alara_T: {instanceID: 0}
+  - Chesma_Iyesi_T: {instanceID: 0}
+  - Korbolko_T: {instanceID: 0}
+  - Al_Basty_T: {instanceID: 0}
+  - Tepegoz_T: {instanceID: 0}
+  - Zahhak_T: {instanceID: 0}
+  - "\u0100i_T": {instanceID: 0}
+  - Night_Hag_T: {instanceID: 0}
+  - "Z\u0101r_T": {instanceID: 0}
+  - Himantopedes_T: {instanceID: 0}
+  - Hatif_T: {instanceID: 0}
+  - Shurala_T: {instanceID: 0}
+  - Yarbogha_T: {instanceID: 0}
+  - Ifrit_M: {fileID: 2789808368694053621, guid: e46fd8388204a4742b40eea8e52c8762,
+      type: 3}
+  - Ghoul_M: {fileID: 670934776016653010, guid: fd8241874ca4f2040baff833516a9169,
+      type: 3}
+  - Angra_Mainyu_M: {instanceID: 0}
+  - Aka_Manah_M: {instanceID: 0}
+  - Roc_M: {instanceID: 0}
+  - Huma_M: {instanceID: 0}
+  - Apaosha_M: {instanceID: 0}
+  - Aeshma_M: {instanceID: 0}
+  - Bushyasta_M: {instanceID: 0}
+  - Manticore_M: {instanceID: 0}
+  - Greater_Ghoul_M: {instanceID: 0}
+  - Takam_M: {instanceID: 0}
+  - Mischevious_Alara_M: {instanceID: 0}
+  - Chesma_Iyesi_M: {instanceID: 0}
+  - Korbolko_M: {instanceID: 0}
+  - Al_Basty_M: {instanceID: 0}
+  - Tepegoz_M: {instanceID: 0}
+  - Zahhak_M: {instanceID: 0}
+  - "\u0100i_M": {instanceID: 0}
+  - Night_Hag_M: {instanceID: 0}
+  - "Z\u0101r_M": {instanceID: 0}
+  - Himantopedes_M: {instanceID: 0}
+  - Hatif_M: {instanceID: 0}
+  - Shurala_M: {instanceID: 0}
+  - Yarbogha_M: {instanceID: 0}
+  - Fire_T: {instanceID: 0}
+  - Water_T: {instanceID: 0}
+  - Air_T: {fileID: 2800000, guid: cda7bff11f277e4498e2683e2d68f01c, type: 3}
+  - Earth_T: {fileID: 2800000, guid: 12cf7ea6173dde74ba7d16efff98e327, type: 3}
+  - Fire_M: {instanceID: 0}
+  - Water_M: {instanceID: 0}
+  - Air_M: {fileID: 808323948931201446, guid: 5c245994c87cb04479edb628ead1ff29, type: 3}
+  - Earth_M: {fileID: 8420316593984810944, guid: 06c8b9f2012caf94da32eec5246c622f,
+      type: 3}
+  - Lightning_M: {fileID: 2880889411006145099, guid: 5d9b7ce633d4fac4991bda29a1b473f6,
+      type: 3}
+  - Molten_M: {instanceID: 0}
+  - Steam_M: {instanceID: 0}
+  - Ice_M: {instanceID: 0}
+  - Flame_Burst_T: {instanceID: 0}
+  - Pillar_of_Fire_T: {instanceID: 0}
+  - Heat_Ray_T: {instanceID: 0}
+  - Raging_Torrent_T: {instanceID: 0}
+  - Flood_Rush_T: {instanceID: 0}
+  - Geyser_T: {instanceID: 0}
+  - Mudslide_T: {instanceID: 0}
+  - Boulder_Toss_T: {instanceID: 0}
+  - Earthquake_T: {instanceID: 0}
+  - Crosswind_T: {instanceID: 0}
+  - Galeforce_T: {instanceID: 0}
+  - Airburst_T: {instanceID: 0}
+  - Steam_Cannon_T: {instanceID: 0}
+  - Arise_Volcano_T: {instanceID: 0}
+  - One_Million_Volts_T: {instanceID: 0}
+  - Wailing_Blizzard_T: {instanceID: 0}
+  - Magic_Shield_T: {instanceID: 0}
+  - Pause_Time_T: {instanceID: 0}
+  - Alter_Affinity_T: {instanceID: 0}
+  - Reap_T: {instanceID: 0}
+  - Flame_Burst_M: {instanceID: 0}
+  - Pillar_of_Fire_M: {instanceID: 0}
+  - Heat_Ray_M: {instanceID: 0}
+  - Raging_Torrent_M: {instanceID: 0}
+  - Flood_Rush_M: {instanceID: 0}
+  - Geyser_M: {instanceID: 0}
+  - Mudslide_M: {instanceID: 0}
+  - Boulder_Toss_M: {instanceID: 0}
+  - Earthquake_M: {instanceID: 0}
+  - Crosswind_M: {instanceID: 0}
+  - Galeforce_M: {instanceID: 0}
+  - Airburst_M: {instanceID: 0}
+  - Steam_Cannon_M: {instanceID: 0}
+  - Arise_Volcano_M: {instanceID: 0}
+  - One_Million_Volts_M: {instanceID: 0}
+  - Wailing_Blizzard_M: {instanceID: 0}
+  - Magic_Shield_M: {instanceID: 0}
+  - Pause_Time_M: {instanceID: 0}
+  - Alter_Affinity_M: {instanceID: 0}
+  - Reap_M: {instanceID: 0}
+  - IX_Legio_Signum_Romanum_T: {instanceID: 0}
+  - Yggdrasil_Dew_T: {instanceID: 0}
+  - Argo_Prow_Shard_T: {instanceID: 0}
+  - Orichalcum_Ring_T: {instanceID: 0}
+  - Joshuas_Horn_T: {instanceID: 0}
+  - Satyakis_Conch_T: {instanceID: 0}
+  - Tears_of_Ra_T: {instanceID: 0}
+  - Soma_Flask_T: {instanceID: 0}
+  - "Stone_of_N\xFCwa_T": {instanceID: 0}
+  - Magatama_T: {instanceID: 0}
+  - Mauis_Fishhook_T: {instanceID: 0}
+  - Turin_Thread_T: {instanceID: 0}
+  - Flaming_Pearl_T: {instanceID: 0}
+  - Chintamani_Stone_T: {instanceID: 0}
+  - Thunderstone_Necklace_T: {instanceID: 0}
+  - Ancient_Duwar_T: {instanceID: 0}
+  - Kaves_Apron_T: {instanceID: 0}
+  - Haoma_Seeds_T: {instanceID: 0}
+  - Thunderbird_Feather_T: {instanceID: 0}
+  - Gem_of_Kukulkan_T: {instanceID: 0}
+  - Smoking_Mirror_T: {instanceID: 0}
+  - Ibonia_Manuscript_T: {instanceID: 0}
+  - Marble_Obelisk_T: {instanceID: 0}
+  - Inkanyamba_Hide_T: {instanceID: 0}
+  - Ngangas_Journal_T: {instanceID: 0}
+  - Kalunga_Vial_T: {instanceID: 0}
+  - Chakana_Cross_T: {instanceID: 0}
+  - Olmec_Dragon_Scale_T: {instanceID: 0}
+  - Odins_Whetstone_T: {instanceID: 0}
+  - Holy_Grail_T: {instanceID: 0}
+  - IX_Legio_Signum_Romanum_M: {instanceID: 0}
+  - Yggdrasil_Dew_M: {instanceID: 0}
+  - Argo_Prow_Shard_M: {instanceID: 0}
+  - Orichalcum_Ring_M: {instanceID: 0}
+  - Joshuas_Horn_M: {instanceID: 0}
+  - Satyakis_Conch_M: {instanceID: 0}
+  - Tears_of_Ra_M: {instanceID: 0}
+  - Soma_Flask_M: {instanceID: 0}
+  - "Stone_of_N\xFCwa_M": {instanceID: 0}
+  - Magatama_M: {instanceID: 0}
+  - Mauis_Fishhook_M: {instanceID: 0}
+  - Turin_Thread_M: {instanceID: 0}
+  - Flaming_Pearl_M: {instanceID: 0}
+  - Chintamani_Stone_M: {instanceID: 0}
+  - Thunderstone_Necklace_M: {instanceID: 0}
+  - Ancient_Duwar_M: {instanceID: 0}
+  - Kaves_Apron_M: {instanceID: 0}
+  - Haoma_Seeds_M: {instanceID: 0}
+  - Thunderbird_Feather_M: {instanceID: 0}
+  - Gem_of_Kukulkan_M: {instanceID: 0}
+  - Smoking_Mirror_M: {instanceID: 0}
+  - Ibonia_Manuscript_M: {instanceID: 0}
+  - Marble_Obelisk_M: {instanceID: 0}
+  - Inkanyamba_Hide_M: {instanceID: 0}
+  - Ngangas_Journal_M: {instanceID: 0}
+  - Kalunga_Vial_M: {instanceID: 0}
+  - Chakana_Cross_M: {instanceID: 0}
+  - Olmec_Dragon_Scale_M: {instanceID: 0}
+  - Odins_Whetstone_M: {instanceID: 0}
+  - Holy_Grail_M: {instanceID: 0}
+  - Polynesian_T: {instanceID: 0}
+  - Zoroastrianism_T: {instanceID: 0}
+  - Beduin_T: {instanceID: 0}
+  - Japanese_T: {instanceID: 0}
+  - Polynesian_M: {instanceID: 0}
+  - Zoroastrianism_M: {instanceID: 0}
+  - Beduin_M: {instanceID: 0}
+  - Japanese_M: {instanceID: 0}
+  - Dungeon_T: {instanceID: 0}
+  - Dungeon_M: {instanceID: 0}
+  - Cast_T: {fileID: 2800000, guid: c9359768d3b0d9d45b33fc30a84186f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
